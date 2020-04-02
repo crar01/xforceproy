@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xforceproy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/xforceproy/static/js/main.cc010efa.chunk.js",
+    "main.js.map": "/xforceproy/static/js/main.cc010efa.chunk.js.map",
+    "runtime-main.js": "/xforceproy/static/js/runtime-main.1dc73896.js",
+    "runtime-main.js.map": "/xforceproy/static/js/runtime-main.1dc73896.js.map",
+    "static/js/2.c81e4e57.chunk.js": "/xforceproy/static/js/2.c81e4e57.chunk.js",
+    "static/js/2.c81e4e57.chunk.js.map": "/xforceproy/static/js/2.c81e4e57.chunk.js.map",
+    "index.html": "/xforceproy/index.html",
+    "precache-manifest.215be676161dd0532515a805d489aabb.js": "/xforceproy/precache-manifest.215be676161dd0532515a805d489aabb.js",
+    "service-worker.js": "/xforceproy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/xforceproy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c81e4e57.chunk.js.LICENSE.txt": "/xforceproy/static/js/2.c81e4e57.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/xforceproy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc73896.js",
+    "static/js/2.c81e4e57.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cc010efa.chunk.js"
+  ]
+}
